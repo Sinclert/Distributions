@@ -3,6 +3,8 @@
 ### What is it?
 This project was my final project of Software Development course, which was based on building a piece of software to classify vectors of data into 4 majors types of distributions: <a href="https://en.wikipedia.org/wiki/Binomial_distribution">Binomial</a>, <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential</a>, <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal</a> or <a href="https://en.wikipedia.org/wiki/Student%27s_t-distribution">T-student</a>.
 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Binomial_distribution_pmf.svg">
+
 ### What is in the repository?
 There are 2 main folders:
 
