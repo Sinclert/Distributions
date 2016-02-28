@@ -8,13 +8,13 @@ There are 2 main folders:
 
 <b>1. LIB:</b> containing two libraries needed for the creation of the software:
 
-  <b>* JSON-simple-1.1.1:</b> which allowed me to work with JSON files.<br>
-  <b>* JUNIT-4.7.</b> which allowed me to test my classification algorithms in a correct way.
+  * <b>JSON-simple-1.1.1:</b> which allowed me to work with JSON files.<br>
+  * <b>JUNIT-4.7.</b> which allowed me to test my classification algorithms in a correct way.
   
 <b>2. SRC:</b> containing the main files of the project:
 
-  <b>* Calculations:</b> where all files containning the calculations are stored. The main file is "calculateDisribution" because is the one which classifies the data vector performing the calculations specified in the other files.<br>
-  <b>* Tests:</b> where all the test files are stored. The applied testing procedure was unit testing, a test per file.
+  * <b>Calculations:</b> where all files containning the calculations are stored. The main file is "calculateDisribution" because is the one which classifies the data vector performing the calculations specified in the other files.<br>
+  * <b>Tests:</b> where all the test files are stored. The applied testing procedure was unit testing, a test per file.
   
 ### Input / Output:
 
