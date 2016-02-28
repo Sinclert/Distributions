@@ -13,7 +13,7 @@ There are 2 main folders:
   
 <b>2. SRC:</b> containing the main files of the project:
 
-  * <b>Calculations:</b> where all files containning the calculations are stored. The main file is "calculateDisribution" because is the one which classifies the data vector performing the calculations specified in the other files.<br>
+  * <b>Calculations:</b> where all files containning the calculations are stored. The main file is "calculateDistribution" because is the one which classifies the data vector performing calculations specified in the rest of files.<br>
   * <b>Tests:</b> where all the test files are stored. The applied testing procedure was unit testing, a test per file.
   
 ### Input and output:
