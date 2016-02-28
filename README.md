@@ -1,7 +1,7 @@
 # Distributions
 
 ### What is it?
-This project was my final project of Software Development course, which was based on building a piece of software to classify vectors of data into 4 majors types of distributios: Binomial, Exponential, Normal or T-student.
+This project was my final project of Software Development course, which was based on building a piece of software to classify vectors of data into 4 majors types of distributions: Binomial, Exponential, Normal or T-student.
 
 ### What is in the repository?
 There are 2 main folders:
@@ -16,7 +16,7 @@ There are 2 main folders:
   * <b>Calculations:</b> where all files containning the calculations are stored. The main file is "calculateDisribution" because is the one which classifies the data vector performing the calculations specified in the other files.<br>
   * <b>Tests:</b> where all the test files are stored. The applied testing procedure was unit testing, a test per file.
   
-### Input / Output:
+### Input and output:
 
 #### Input:
 The input must be a data vector following JSON format.
