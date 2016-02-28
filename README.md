@@ -30,3 +30,8 @@ The output will be also a JSON file, with the same name as the inut one, but con
 * <b>Exponential:</b> The output will contain the value <b>"λ"</b>, which defines the distribution.
 * <b>Normal:</b> The output will contain the <b>mean</b> and the <b>standard devitation</b> of the distribution.
 * <b>T-student:</b> The output will contain the <b>"degrees of freedom"</b>, characteristic value of a T-student distribution.
+
+### Downloads:
+
+* <a href="http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm">JSON Library</a>
+* <a href="http://www.java2s.com/Code/Jar/j/Downloadjunitjar.htm">JUNIT Library</a>
