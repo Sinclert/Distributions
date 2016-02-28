@@ -24,7 +24,7 @@ The input must be a data vector, with each data separated by commas, following t
 #### Output:
 The output will be also a JSON file, with the same name as the inut one, but containing the suffix "_distribution_<current time>". However, depending on the type of distribution that results:
 
-* <b>Binomial:</b> The output will contain the "n" and "p" values, characteristic values of a binomial distribution.
-* <b>Exponential:</b> The output will contain the value "lamda", which defines the distribution.
-* <b>Normal:</b> The output will contain the mean and de standard devitation of the distribution.
-* <b>T-student:</b> The output will contain the "degrees of freedom", characteristic value of a T-student distribution.
+* <b>Binomial:</b> The output will contain the <b>"n"</b> and <b>"p"</b> values, characteristic values of a binomial distribution.
+* <b>Exponential:</b> The output will contain the value <b>"λ"</b>, which defines the distribution.
+* <b>Normal:</b> The output will contain the <b>mean</b> and the <b>standard devitation</b> of the distribution.
+* <b>T-student:</b> The output will contain the <b>"degrees of freedom"</b>, characteristic value of a T-student distribution.
