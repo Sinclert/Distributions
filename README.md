@@ -1,7 +1,7 @@
 # Distributions
 
 ### What is it?
-This project was my final project of Software Development course, which was based on building a piece of software to classify vectors of data into 4 majors types of distributions: Binomial, Exponential, Normal or T-student.
+This project was my final project of Software Development course, which was based on building a piece of software to classify vectors of data into 4 majors types of distributions: <a href="https://en.wikipedia.org/wiki/Binomial_distribution">Binomial</a>, <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential</a>, <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal</a> or <a href="https://en.wikipedia.org/wiki/Student%27s_t-distribution">T-student</a>.
 
 ### What is in the repository?
 There are 2 main folders:
@@ -19,7 +19,7 @@ There are 2 main folders:
 ### Input and output:
 
 #### Input:
-The input must be a data vector following JSON format.
+The input must be a data vector, with each data separated by commas, following the JSON format.
 
 #### Output:
 The output will be also a JSON file, with the same name as the inut one, but containing the suffix "_distribution_<current time>". However, depending on the type of distribution that results:
